@@ -1,0 +1,21 @@
+# OS & System Junk
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+Thumbs.db
+desktop.ini
+System Volume Information/
+
+# Backup and temp files
+*.bak
+*.old
+*.backup
+*.backup-*
+*.before-*
+*.tmp
+
+# Exclude Windows Bootloader if ever placed here
+Microsoft/
+EFI/Microsoft/
